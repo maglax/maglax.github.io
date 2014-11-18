@@ -17,4 +17,36 @@ footer
 	background-color:#002104;
 	color:#005E0C;
 	
+#navbar
+{
+	height:130px;
+	padding:10px;
+	background-color:#002104;
+	color:#005E0C;
+	position:fixed;
+
+}
+
+.navbottom
+{
+	height:60px;
+	padding:10px;
+}
+
+.navtop
+{
+	height:60px;
+	padding:10px;
+}
+
+.bio
+{
+	height:40px;
+	width:500px;
+	background-color:#005E0C;
+	color:#002104;
+	font-size:15px;
+	border:5px;
+	border-color:#002104;
+
 }
