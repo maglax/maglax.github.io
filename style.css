@@ -37,7 +37,7 @@ a
 {
 	height:20px;
 	padding:5px;
-	background-color:#002104;
+	background:#002104;
 	color:#005E0C;
 	margin-top:10px;
 	text-decoration:none;
@@ -54,6 +54,14 @@ a
 	padding:5px;
 	background-color:#002104;
 	color:#005E0C;
+}
+
+.button
+{
+	border-radius: 3;
+	background-color:#002104;
+	color:#005E0C;
+
 }
 
 .bio
