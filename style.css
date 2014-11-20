@@ -29,12 +29,24 @@ navbar
 
 navbottom
 {
-	height:60px;
-	padding:10px;
-	background-color:#002104;
-	color:#005E0C;
-	position:fixed;
+	//height:60px;
+	//padding:10px;
+	//background-color:#002104;
+	//color:#005E0C;
+	//position:fixed;
+	//text-decoration: none;
+
+
+	-webkit-border-radius: 3;
+	-moz-border-radius: 3;
+	border-radius: 3px;
+	color: #fff;
+	font-size: 15px;
+	background: #a10000;
+	padding: 8px 12px 8px 12px;
 	text-decoration: none;
+	margin:5px;
+	border:0px; 
 
 	
 }
