@@ -17,7 +17,7 @@ footer
 	background-color:#002104;
 	color:#005E0C;
 	
-navbar
+#navbar
 {
 	height:130px;
 	padding:10px;
@@ -27,7 +27,7 @@ navbar
 
 }
 
-navbottom
+.navbottom
 {
 	//height:60px;
 	//padding:10px;
