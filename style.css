@@ -35,11 +35,11 @@ a
 .navbottom
 {
 	height:60px;
-	padding:10px;
+	padding:5px;
 	background-color:#002104;
 	color:#005E0C;
-	position:fixed;
-	text-decoration: none;
+	
+	
 
 
 	
@@ -48,10 +48,9 @@ a
 .navtop
 {
 	height:60px;
-	padding:10px;
+	padding:5px;
 	background-color:#002104;
 	color:#005E0C;
-	position:fixed;
 }
 
 .bio
