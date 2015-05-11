@@ -1,36 +1,40 @@
 *
 {
-	
+
 }/*End * */
 
 html, body
 {
-	background-color: #003300;
-	color:#009900;
-}/* End html, body */
+	background-color: #0a0;
+	color:#000;
+	width:100%;
+	overflow:hidden;
+	padding: 0 0 0 0;
+	spacing: 0;
+	margin: 0;
+}
 
 footer
 {
 	width:100%;
 	hight:40px;
 	bottom:0;
-	background-color:#002104;
-	color:#005E0C;
+	background-color:#00aa00;
+	color:#000;
+	text-align: center;
 }
 
-a 
+a
 {
 	text-decoration:none;
 }
-	
+
 #navbar
 {
 	height:100px;
 	padding:10px;
 	background-color:#002104;
 	color:#005E0C;
-	
-
 }
 
 .navbottom
@@ -38,14 +42,9 @@ a
 	height:20px;
 	padding:5px;
 	background:#002104;
-	color:#005E0C;
+	color:#afa;
 	margin-top:10px;
 	text-decoration:none;
-	
-	
-
-
-	
 }
 
 .navtop
@@ -53,7 +52,7 @@ a
 	height:60px;
 	padding:5px;
 	background-color:#002104;
-	color:#005E0C;
+	color:#00aa00;
 }
 
 .button
@@ -79,6 +78,6 @@ a
 
 .content
 {
-	height: 300px;
+	padding-top: 10px;
+	padding-bottom: 20px;
 }
-
