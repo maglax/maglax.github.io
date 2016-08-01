@@ -40,7 +40,7 @@ $(window).resize(function () {
 
 
 /* =========================================
- *  for demo purpose only - can be deleted 
+ *  for demo purpose only - can be deleted
  *  =======================================*/
 
 function demo() {
@@ -109,7 +109,7 @@ function animations() {
 }
 
 /* =========================================
- * sliding 
+ * sliding
  *  =======================================*/
 
 function sliding() {
@@ -125,7 +125,7 @@ function sliding() {
 }
 
 /* =========================================
- * sliders 
+ * sliders
  *  =======================================*/
 
 function sliders() {
@@ -148,7 +148,7 @@ function sliders() {
 }
 
 /* =========================================
- * counters 
+ * counters
  *  =======================================*/
 
 function counters() {
@@ -161,17 +161,17 @@ function counters() {
 }
 
 /* =========================================
- * parallax 
+ * parallax
  *  =======================================*/
 
 function parallax() {
 
     $('.text-parallax').parallax("50%", 0.1);
-    
+
 }
 
 /* =========================================
- *  masonry 
+ *  masonry
  *  =======================================*/
 
 function masonry() {
@@ -195,7 +195,7 @@ function masonry() {
 }
 
 /* =========================================
- * filter 
+ * filter
  *  =======================================*/
 
 $('#filter a').click(function (e) {
@@ -230,7 +230,7 @@ $('#filter a').click(function (e) {
 });
 
 /* =========================================
- *  open reference 
+ *  open reference
  *  =======================================*/
 
 $('.reference-item').click(function (e) {
@@ -319,7 +319,7 @@ $('#detail .close').click(function () {
 })
 
 /* =========================================
- * full screen intro 
+ * full screen intro
  *  =======================================*/
 
 function fullScreenContainer() {
@@ -341,7 +341,7 @@ function fullScreenContainer() {
 }
 
 /* =========================================
- *  map 
+ *  map
  *  =======================================*/
 
 function map() {
@@ -349,8 +349,8 @@ function map() {
     var styles = [{"featureType": "landscape", "stylers": [{"saturation": -100}, {"lightness": 65}, {"visibility": "on"}]}, {"featureType": "poi", "stylers": [{"saturation": -100}, {"lightness": 51}, {"visibility": "simplified"}]}, {"featureType": "road.highway", "stylers": [{"saturation": -100}, {"visibility": "simplified"}]}, {"featureType": "road.arterial", "stylers": [{"saturation": -100}, {"lightness": 30}, {"visibility": "on"}]}, {"featureType": "road.local", "stylers": [{"saturation": -100}, {"lightness": 40}, {"visibility": "on"}]}, {"featureType": "transit", "stylers": [{"saturation": -100}, {"visibility": "simplified"}]}, {"featureType": "administrative.province", "stylers": [{"visibility": "off"}]}, {"featureType": "water", "elementType": "labels", "stylers": [{"visibility": "on"}, {"lightness": -25}, {"saturation": -100}]}, {"featureType": "water", "elementType": "geometry", "stylers": [{"hue": "#ffff00"}, {"lightness": -25}, {"saturation": -97}]}];
     map = new GMaps({
 	el: '#map',
-	lat: -12.043333,
-	lng: -77.028333,
+	lat: 35.881614,
+	lng: -84.048592,
 	zoomControl: true,
 	zoomControlOpt: {
 	    style: 'SMALL',
@@ -368,8 +368,8 @@ function map() {
     var image = 'img/marker.png';
 
     map.addMarker({
-	lat: -12.043333,
-	lng: -77.028333,
+	lat: 35.881614,
+	lng: -84.048592,
 	icon: image/* ,
 	 title: '',
 	 infoWindow: {
