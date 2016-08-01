@@ -1,0 +1,19 @@
+/* your styles go here */
+
+.right-inline
+{
+  float: right;
+  display: inline;
+}
+
+.left-1indent
+{
+  margin-left: 2em;
+  text-align: left;
+}
+
+.left-2indent
+{
+  margin-left: 3em;
+  text-align: left;
+}
