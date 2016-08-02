@@ -172,7 +172,7 @@ INTRO
 }
 #intro .item {
   height: 100%;
-  background: url('../img/home.jpg') center center no-repeat;
+  background: url('../img/ArduinoKeyboard2.jpg') center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -775,6 +775,12 @@ FOOTER
 }
 #footer p.social a.email {
   background-color: #4a7f45;
+}
+#footer p.social a.github {
+  background-color: #000000;
+}
+#footer p.social a.twitter {
+  background-color: #00aced;
 }
 @media (max-width: 767px) {
   #footer p.social {
