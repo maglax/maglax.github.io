@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/maglax
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://maglax.tk
+  * I am maglax (https://keybase.io/maglax) on keybase.
+  * I have a public key with fingerprint 27EB 9D7D 9E15 1625 492E  F641 4C66 648D B31B F4DA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010183aacac813fe0a3e7e20ba608cd2110594768abc965132825d9ea8e7197580b20a",
+            "fingerprint": "27eb9d7d9e151625492ef6414c66648db31bf4da",
+            "host": "keybase.io",
+            "key_id": "4c66648db31bf4da",
+            "kid": "010183aacac813fe0a3e7e20ba608cd2110594768abc965132825d9ea8e7197580b20a",
+            "uid": "4ff287b8c09b1cf32a479b6b34636d19",
+            "username": "maglax"
+        },
+        "service": {
+            "hostname": "maglax.tk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494993957,
+    "expire_in": 157680000,
+    "prev": "cfbfc6d38ae77bcd205b3f9185644fb929482a74e7cf1cb71ff281cbcda2d4d3",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJZSFRRGB6zbRSboaAFW+xCZGXTPXc/U0YFPZRJQUhFy3C2O17UudOd
+O2aZ+JDQhkVhi0VBQZtNmxSV2L5R+VJCFKYkiRiZFEUUSHVuy0PQY+flnPOf7/v+
+7/s5d7PSfRlpiUV3UrtyF85Ke3xrd9K3IrtlUqWAbbpeCFcKJeznxkopS7iREosK
+YUEEIjBkhAgiBpBNJiKZ6UwSMdJEg1AJAFGFiq4ZCBOoqUCWDEmlkCGD6QDqqiFi
+SURCnmBasShz4o4Vc7mspDMMqc6BQAWapCpQYqamAIVomqYYFMsAmwr1iMV2wmNw
+cxglWMiyeY1fIj/t/QP/n30nf/UxTcnQsUFEiAExZQkpOsQalhVN1iiAHjDBnBgq
+YxxdhqKlqEKoyhN4rdwizBurl+Ov95Bbwmlxx3ZtYpfycrHrxsMey10f92DrGI78
+FohgK0b5BDmhnDkJy44JYcCRxLU8RaBABUIZqnqewCrilsMilodQeUCRL68NK+eS
+xMQm0ahsIKbrmM9BVLFsQmComqKYGEpQMSSkK0wnJiBYB15ufiAUSVShsuBFWhuz
+ubbMfaIo10xY0Rhykw4Tqm7fXDXQl5bhGzxogPe1fBn+4J8Pt2T6kO9FZ99nvVk2
+5fX2p5OP6s9yC86P7wvXPJx7vL+/j7ZP+FxflNyw3Dgz1J13bMeDYHMks9HYMuqJ
+/0D23oqupS0k+O7RuF7DCqRn9TRcH7Z7z6eS7tU5F4cHrg1cWdncHPbfS17JP3Hy
+kNpx/CPJcR5/r2lYe+n+tcLZ1QWpwJdzgeDOrhn5NWMmhiNts4r2H2qb30nFl+a+
+1jn5/rFv+ju6vn2wQPvX2fHQwcWhZdXPNxdU9Z1ac3rmq8YXV3suX0lN/bK6tXvj
+gqa6tvSpmYW10hF7P73wtrB3E90+orZ2ydYcfeKNutHDG6d9KHvUWV/ftA3cfFCX
+ymzqlS50F3Yerqy+NTL7B7ZpQJU=
+=ZYUA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maglax
+
+==================================================================
